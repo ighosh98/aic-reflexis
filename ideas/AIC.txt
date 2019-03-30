@@ -1,0 +1,7 @@
+6 independent variables:
+Date(Day, Month, Year, Weekday), Traffic, Manager_Scheduled_Hours
+
+2 Dependent variables:
+Transactions, Sales/Hr. (Optimize Sales/Hr.)
+
+Algorithms: (S-Arima), LSTM, XGBoost, EDA/MLP
