@@ -1,0 +1,10 @@
+To run the code here on your local system, follow the steps below:
+1. Clone the repository to a directory of your choice.
+2. Open a terminal window in the cloned repository folder on your system.
+3. Open a Jupyter notebook in this directory. A browser window will open, showing the files in the directory.
+4. In this browser window, navigatate to the scripts folder, and open the file within.
+5. Click on the 'Restart and run all code' button (looks like a fast-forward sign, with 2 right facing arrows).
+If running on Kaggle:
+1. Fork the repository given in the readme.
+2. Upload the datasets, and then link to them on the notebook you have open.
+3. Click the 'Run all' option under the 'Run' menu.
